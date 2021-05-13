@@ -24,7 +24,7 @@ A continuación describiremos el procedimiento para convertir al formato GeoJSON
 ![screenshot](https://raw.githubusercontent.com/sampach95/ConvertirFormatosAGeoJSON/master/img/Imagen9.png )
 #### 8. Para verificar que se haya realizado correctamente el procedimiento, habrá que cargar la información al mapa. Como lo veremos en el siguiente tutorial.
 
-Siguiente Tutorial
+Siguiente Tutorial https://github.com/sampach95/CargarGeoJSON
 
 Haz click en el siguiente enlace para volver a la pagina inicial
 https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
