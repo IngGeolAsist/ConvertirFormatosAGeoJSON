@@ -1,7 +1,7 @@
 # Convertir Formatos a GeoJSON
-## Hemos visto el procedimiento para cargar datos vectoriales directamente al código, sin embargo, te habrás dado cuenta que puede llegar a ser tedioso, debido a que, ante el más mínimo error en el código, la información no se actualizará en el mapa. 
+Hemos visto el procedimiento para cargar datos vectoriales directamente al código, sin embargo, te habrás dado cuenta que puede llegar a ser tedioso, debido a que, ante el más mínimo error en el código, la información no se actualizará en el mapa. 
 
-### Para cantidades de información mayores, o geometrías más complejas, lo mejor será utilizar un programa especializado en Sistemas de Información Geográfica para hacer el tratamiento de los datos, y posteriormente, añadirlos a nuestro código. 
+## Para cantidades de información mayores, o geometrías más complejas, lo mejor será utilizar un programa especializado en Sistemas de Información Geográfica para hacer el tratamiento de los datos, y posteriormente, añadirlos a nuestro código. 
 
 Para empezar será necesario convertir todos nuestros datos a un formato compatible con Leaflet, esto será posible con el formato GeoJSON. Hay que recalcar que esto sólo aplica para datos vectoriales, por ejemplo archivos tipo shape (.shp)
 A continuación describiremos el procedimiento para convertir al formato GeoJSON
