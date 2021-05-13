@@ -9,7 +9,7 @@ A continuación describiremos el procedimiento para convertir al formato GeoJSON
 1. Con la información que deseamos convertir cargada en Qgis activaremos la capa a convertir.
 ![screenshot](https://raw.githubusercontent.com/sampach95/ConvertirFormatosAGeoJSON/master/img/Imagen1.png )
 2. Al hacer click derecho sobre la capa seleccionaremos la opción de exportar y posteriormente la opcion de guardar como o Save features as
-![screenshot](https://raw.githubusercontent.com/sampach95/Lineas/master/img/Imagen2.png )
+![screenshot](https://raw.githubusercontent.com/sampach95/ConvertirFormatosAGeoJSON/master/img/Imagen2.png )
 3. En la pestaña de FORMATO elegiremos GeoJSON. IMPORTANTE. Es necesario reproyectar la capa a coordenadas geográficas, ya que Leaflet unicamente trabaja con dicho sitema de referencia. Guardamos en la carpeta seleccionada.
 ![screenshot](https://raw.githubusercontent.com/sampach95/ConvertirFormatosAGeoJSON/master/img/Imagen3.png )
 4. En la carpeta que seleccionaste, da click derecho en el archivo, y elege la opción de abrir con notepad, o abre el archivo en el editor de texto de tu preferencia
