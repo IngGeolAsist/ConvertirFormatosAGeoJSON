@@ -1,5 +1,5 @@
 # Convertir Formatos a GeoJSON
-Hemos visto el procedimiento para cargar datos vectoriales directamente al código, sin embargo, te habrás dado cuenta que puede llegar a ser tedioso, debido a que, ante el más mínimo error en el código, la información no se actualizará en el mapa. 
+Hemos visto el procedimiento para cargar datos vectoriales directamente al código, sin embargo, te habrás dado cuenta que puede llegar a ser tedioso, debido a que, ante el más mínimo error en el código,  la información no se actualizará en el mapa. 
 
 ## Para cantidades de información mayores, o geometrías más complejas, lo mejor será utilizar un programa especializado en Sistemas de Información Geográfica para hacer el tratamiento de los datos, y posteriormente, añadirlos a nuestro código. 
 
